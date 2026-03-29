@@ -129,6 +129,4 @@ Never push your API key to GitHub.
 
 ## 👤 Author
 
-## 👤 Author
-
 **Ohm Parkash** — [LinkedIn](https://www.linkedin.com/in/om-parkash34/) · [GitHub](https://github.com/parkash34)
